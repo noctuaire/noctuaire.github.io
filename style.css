@@ -17,6 +17,7 @@ a:hover{
      
 #hug{
         padding:15px;
+        display:inline-block;
         border:1px solid gray;
         background: url('https://cdn.discordapp.com/attachments/534353986866774028/658348524945276964/tumblr_inline_mvmuledGjd1qid2nw.png');
         
