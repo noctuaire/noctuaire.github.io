@@ -1,5 +1,5 @@
  *{
-        background-color:#fdfffa;
+        background:#fdfffa;
         cursor:url("https://66.media.tumblr.com/bd3226ae0c509d6246ad28b54f8dbda9/tumblr_inline_phwhm1OjTa1rxehnw_500.png"), 
            auto !important;
           font-family:consolas;
@@ -20,7 +20,7 @@ a:hover{
         }
 
         .hold{
-           background-color:#e4f5e8;
+           background:#e4f5e8;
            padding:5px;
            width:120px;
            border: 1px dashed gray;
