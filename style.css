@@ -1,22 +1,35 @@
  *{
-        background:#fdfffa;
+        background:#fdfffa url('');
         cursor:url("https://66.media.tumblr.com/bd3226ae0c509d6246ad28b54f8dbda9/tumblr_inline_phwhm1OjTa1rxehnw_500.png"), 
-           auto !important;
-          font-family:consolas;
-          font-size:12px;
+        auto !important;
+        font-family:consolas;
+        font-size:12px;
+        color:black;
+        }
+p{ 
+        background-color:transparent;
         }
 
 a:hover{
   cursor:url("https://66.media.tumblr.com/fa69ce2639b7b5f39ab63d48af371129/tumblr_inline_ppekwjN7U71rxehnw_500.png"), 
           auto !important; 
-}
-      
+        }
+     
+#hug{
+        padding:15px;
+        border:1px solid gray;
+        background: url('https://cdn.discordapp.com/attachments/534353986866774028/658348524945276964/tumblr_inline_mvmuledGjd1qid2nw.png');
+        
+        }
+
 #lov{
         margin-top:70px;
-        padding: 20px;
+        padding: 10px;
         width:600px;
         height:500px;
         overflow-y:auto;
+        border:1px solid gray;
+        background-color:white;
         }
 
         .hold{
