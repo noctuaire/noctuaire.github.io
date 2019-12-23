@@ -1,5 +1,5 @@
  *{
-        background:#fdfffa url('');
+        background:url('https://static.tumblr.com/471e1d5d11fd4689bf90ac5804a10c5c/awzvpfw/BGqp5zb29/tumblr_static_8rx16kfmpds0soos00g084sg0.jpg');
         cursor:url("https://66.media.tumblr.com/bd3226ae0c509d6246ad28b54f8dbda9/tumblr_inline_phwhm1OjTa1rxehnw_500.png"), 
         auto !important;
         font-family:consolas;
@@ -20,7 +20,7 @@ a:hover{
         padding:15px;
         display:inline-block;
         border:1px solid gray;
-        background: url('https://cdn.discordapp.com/attachments/534353986866774028/658348524945276964/tumblr_inline_mvmuledGjd1qid2nw.png');
+        background: url('https://cdn.discordapp.com/attachments/534353986866774028/658778962838814720/gween.png');
         
         }
 
@@ -35,7 +35,7 @@ a:hover{
         }
 
 .hold{
-           background:#e4f5e8;
+           background:url('https://cdn.discordapp.com/attachments/534353986866774028/658779284068106256/tumblr_inline_mll0keW1Af1r53miq.gif');
            padding:5px;
            width:120px;
            border: 1px dashed gray;
