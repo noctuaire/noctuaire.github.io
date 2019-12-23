@@ -7,10 +7,6 @@
         color:black;
         }
 
-p, b, i, u, a{ 
-        background-color:transparent;
-        }
-
 a:hover{
   cursor:url("https://66.media.tumblr.com/fa69ce2639b7b5f39ab63d48af371129/tumblr_inline_ppekwjN7U71rxehnw_500.png"), 
           auto !important; 
